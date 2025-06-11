@@ -1,2 +1,2 @@
-# agrinho2025
+# AGRINHO 2025
 projeto agrinho
